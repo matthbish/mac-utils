@@ -1,5 +1,8 @@
 # mac-utils
 
+Create a symlink to bash scripts to avoid having to use full path name:
+`sudo ln -s /full/path/to/your/file /usr/local/bin/name_of_new_command`
+
 ## Usage:
 * Open an app zoomed
   * `osascript open-zoomed.scpt "<app-name>"`
