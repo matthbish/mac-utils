@@ -9,6 +9,9 @@
   * `osascript open-invisible.scpt "<app-name>"`
 * Run startup script to open certain apps
   * `bash startup.sh`
+* Push changes using branch name as prefix
+  * `bash push.sh`
+  * Enter commit message when prompted
 
 ## Run startup script on startup
 1. Start `Automator.app`.
