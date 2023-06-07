@@ -1,6 +1,6 @@
 # mac-utils
 
-# Usage:
+## Usage:
 * Open an app zoomed
   * `osascript open-zoomed.scpt "<app-name>"`
 * Open an app in fullscreen
@@ -10,7 +10,7 @@
 * Run startup script to open certain apps
   * `bash startup.sh`
 
-# Run startup script on startup
+## Run startup script on startup
 1. Start `Automator.app`.
 2. Select `Application`.
 3. Go to `Utilities` under `Library`.
