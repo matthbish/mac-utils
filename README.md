@@ -15,6 +15,8 @@ Create a symlink to bash scripts to avoid having to use full path name:
 * Push changes using branch name as prefix
   * `bash push.sh`
   * Enter commit message when prompted
+* Force push changes on last commit
+  * `bash force.sh`
 
 ## Run startup script on startup
 1. Start `Automator.app`.
