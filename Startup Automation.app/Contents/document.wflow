@@ -59,12 +59,12 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>osascript open-fullscreen.scpt "Slack"
-osascript open-fullscreen.scpt "Microsoft Outlook"
-osascript open-fullscreen.scpt "Microsoft Teams"
-osascript open-fullscreen.scpt "IntelliJ IDEA"
+					<string>osascript utilities/open-fullscreen.scpt "Slack"
+osascript utilities/open-fullscreen.scpt "Microsoft Outlook"
+osascript utilities/open-fullscreen.scpt "Microsoft Teams"
+osascript utilities/open-fullscreen.scpt "IntelliJ IDEA"
 
-osascript open-zoomed.scpt "Google Chrome"</string>
+osascript utilities/open-zoomed.scpt "Google Chrome"</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
@@ -177,7 +177,7 @@ osascript open-zoomed.scpt "Google Chrome"</string>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>317.500000:252.000000</string>
+				<string>565.000000:252.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
