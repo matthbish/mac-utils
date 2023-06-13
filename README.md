@@ -17,6 +17,10 @@ Create a symlink to bash scripts to avoid having to use full path name:
   * Enter commit message when prompted
 * Force push changes on last commit
   * `bash force.sh`
+* Update with remote (origin/main)
+  * `bash update.sh`
+* Clean local branches that are not on remote
+  * `bash clean-branches.sh`
 
 ## Run startup script on startup
 1. Start `Automator.app`.
